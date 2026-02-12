@@ -40,7 +40,7 @@ async def approve(_, m):
         await app.send_message(
             user.id,
             f"👋 Hello • {user.first_name}\n\n"
-            "❌ Aapka join request approve ho gaya hai.\n"
+            "🥀 Aapka join request approve ho gaya hai.\n"
             "📩 Important info niche bheji gayi hai 👇"
         )
 
